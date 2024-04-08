@@ -7,17 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil2222" alt="nikhil2222" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Shopping App**
+- 🔭 I’m currently working on at **Infiheal**
 
-- 🌱 I’m currently learning **Flutter , AWS ,Microsoft Azure, Google Cloud ,Competitive Programming**
-
-- 📫 How to reach me **nikhilkumarnk2209@gmail.com**
-
-- ⚡ Fun fact **I like jokes and building apps .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kumar-b89b11190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-kumar-b89b11190/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhilkumar2206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhilkumar2206/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14799214/nikhil-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14799214/nikhil-kumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/nikhil2209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nikhil2209" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/nikhilkumarnk221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nikhilkumarnk221" height="30" width="40" /></a>
